@@ -1,13 +1,4 @@
-﻿<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8" />
-    <title></title>
-</head>
-<body>
-    <pre>
-    
-
+﻿
 Поэпизодник 
 полнометражного фильма 
                         
@@ -1091,6 +1082,6 @@
 
 
 
-</pre>
-</body>
-</html>
+
+
+
